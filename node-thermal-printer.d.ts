@@ -58,7 +58,8 @@ declare enum CharacterSet {
   KOREA = 'KOREA',
   CHINA = 'CHINA',
   HK_TW = 'HK_TW',
-  TCVN_VIETNAMESE = 'TCVN_VIETNAMESE'
+  TCVN_VIETNAMESE = 'TCVN_VIETNAMESE',
+  VISCII = 'VISCII'
 }
 
 declare type CutOptions = {
